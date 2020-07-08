@@ -1,6 +1,8 @@
 # SR-project
 
-Workout Assistance Mobile Application
+Workout Assistance Mobile Application:
+"Snappy Workout"
+
 
 Developed by Team Snappy:
 
